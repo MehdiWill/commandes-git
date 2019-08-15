@@ -16,7 +16,7 @@
  * **clone "clef ssh"** => permet de cloner une clef et d'apporter des modif sur le repo ou la clef a été copier.
  * **git pull** => récupère les données depuis le serveur qui a été initialement cloné et essaie de les fusionner dans votre branche de travail actuel.
  * **git checkout -b ""** => crée une branche git.
- * **git merge ""** => fusionne la branche "" a l'endroit ou l'on se trouve.
+ * **git merge ""** => fusionne la branche "" a l'endroit ou on se trouve.
 
 2. pousser un travail sur github
 
