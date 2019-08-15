@@ -1,7 +1,7 @@
 # __**commandes git**__ <h1> 
 
 
-1. liste commande * commandes basique
+1. liste commande basique 
 
 
  * **cd** => se déplacer 
